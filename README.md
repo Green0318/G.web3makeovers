@@ -19,26 +19,26 @@ This is a dApp that allows issuing NFTs and Soulbound tokens for the Web3MAKEOVE
 
 ## Powered with:
 
--   <img align="left" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=Ethereum&logoColor=white" />
-    </span>
+*   <img align="left" src="https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=Ethereum&logoColor=white" />
+    <span/>
 
--   <img align="left" src="https://img.shields.io/badge/Polygon-cc0000?style=for-the-badge&logo=Polygon&logoColor=white" />
-    </span>
+*   <img align="left" src="https://img.shields.io/badge/Polygon-cc0000?style=for-the-badge&logo=Polygon&logoColor=white" />
+    <span/>
 
--   <img align="left" src="https://img.shields.io/badge/Solidity-660000?style=for-the-badge&logo=solidity&logoColor=white" />
-    </span>
+*   <img align="left" src="https://img.shields.io/badge/Solidity-660000?style=for-the-badge&logo=solidity&logoColor=white" />
+    <span/>
 
--   <img align="left" src="https://img.shields.io/badge/OpenZeppelin-990000?style=for-the-badge&logo=openzeppelin&logoColor=white" />
-    </span>
+*   <img align="left" src="https://img.shields.io/badge/OpenZeppelin-990000?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+    <span/>
 
--   <img align="left" src="https://img.shields.io/badge/hardhat-b30000?style=for-the-badge" />
+*   <img align="left" src="https://img.shields.io/badge/hardhat-b30000?style=for-the-badge" />
     </span>
 
 -   <img align="left" src="https://img.shields.io/badge/React-330000?style=for-the-badge&logo=React&logoColor=white" />
     </span>
 
 -   <img align="left" src="https://img.shields.io/badge/Next.js-660000?style=for-the-badge&logo=next.js&logoColor=white" />
-      </span>
+    </span>
 
 -   <img align="left" src="https://img.shields.io/badge/OpenSea-800000?style=for-the-badge&logo=OpenSea&logoColor=white" />
     </span>
@@ -69,6 +69,7 @@ This is a dApp that allows issuing NFTs and Soulbound tokens for the Web3MAKEOVE
 
 -   <img align="left" src="https://img.shields.io/badge/MUI-e60000?style=for-the-badge&logo=MUI&logoColor=white" />
     </span>
+    
 -   <img align="left" src="https://img.shields.io/badge/Wagmi-ff3333?style=for-the-badge" />
     </span>
 
