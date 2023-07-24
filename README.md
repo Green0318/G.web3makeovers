@@ -13,11 +13,9 @@ This is a dApp that allows issuing NFTs and Soulbound tokens for the Web3MAKEOVE
 </br>
 
 <div align="center">
-  <video width="900" height="auto" controls>
-    <source src="public/video.mov" type="video/quicktime">
-    Your browser does not support the video tag.
-  </video>
-</div>
+<img src="public/demo.png" alt="screen" width="900" height="auto" />
+  
+  </div>
 
   
   </div>
