@@ -13,7 +13,11 @@ This is a dApp that allows issuing NFTs and Soulbound tokens for the Web3MAKEOVE
 </br>
 
 <div align="center">
-<img src="public/demo.png" alt="screen" width="900" height="auto" />
+
+
+https://github.com/lssleo/web3makeovers/assets/103574243/f4753593-8a4a-407e-864c-e5f4a9282e60
+
+
   
   </div>
 
